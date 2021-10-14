@@ -15,7 +15,7 @@ and my Telegram bot name was @tele1_covid_bot
 
 
 from this line i am showing you a deployed basic working telegram bot so that you have an idea that i can deploy
-tele bot name @etpr1_bot     //its working
+tele bot name @etpr1_bot     //its working(send /start)
 deployed link https://telebot312.herokuapp.com/ 
 this was just for practice
 thank you.
