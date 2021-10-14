@@ -12,3 +12,12 @@ I also deployed it but it doesnt seems to work
 here is the heroku deployed link : https://boiling-ravine-36251.herokuapp.com/
 
 and my Telegram bot name was @tele1_covid_bot
+
+
+from this line i am showing you a deployed basic working telegram bot so that you have an idea that i can deploy
+tele bot name @etpr1_bot     //its working
+deployed link https://telebot312.herokuapp.com/ 
+this was just for practice
+thank you.
+regards 
+Yogesh kumar
